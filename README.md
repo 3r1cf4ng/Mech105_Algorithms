@@ -3,6 +3,6 @@ The following files in this repository reflect the algorithms I developed over t
 The files consist of:
 * Matrices
 * False Position (root finding method)
-* LU Decomposition 
+* LU Decomposition (with pivoting)
 * Simpson's 1/3 rule (integration method)
-* Linear Regression 
+* Linear Regression (regression of data sets)
