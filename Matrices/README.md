@@ -4,4 +4,4 @@ This function makes a fun matrix by creating an n by m matrix of zeros, numberin
 * n - desired number of rows
 * m - desired number of columns
 ### Outputs
-* A - the special matrix yieled from the desired inputs
+* A - the special matrix yielded from the desired inputs
