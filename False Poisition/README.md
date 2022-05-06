@@ -6,6 +6,7 @@ This function is meant to approximate the value of a root, for a given function,
 * xu - the upper x value guess
 * es - the desired relative error (stopping criterion)
 * maxit - the maximum number of iterations to use
+
 (can disregusrd varargin)
 ### Outputs
 * root - the estimated root location (x value)
